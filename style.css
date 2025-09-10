@@ -74,7 +74,7 @@ li {
     margin-left: 25px;
     gap: 100px;
     margin-top: 20px;
-    width: auto;
+    width: 50%;
     height: auto;
 }
 .box {
@@ -86,7 +86,6 @@ li {
 }
 .icon {
     width: auto;
-    margin-left: 200px;
     height: 175px;
     padding: 25px;
 }
