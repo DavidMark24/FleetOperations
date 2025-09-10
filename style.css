@@ -86,7 +86,9 @@ li {
 }
 .icon {
     width: auto;
-    height: 150px;
+    margin-left: 145px;
+    height: 175px;
+    padding: 25px;
 }
 .box p {
     text-align: center;
